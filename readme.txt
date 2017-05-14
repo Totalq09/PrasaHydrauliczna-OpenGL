@@ -1,0 +1,1 @@
+Projekt zrealizowany na przedmiot Grafika Komputerowa z pomoc¹ strony learnopengl.com
